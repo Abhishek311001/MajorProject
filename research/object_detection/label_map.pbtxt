@@ -1,0 +1,32 @@
+item {
+    id: 1
+    name: 'keepRight'
+}
+item {
+    id: 2
+    name: 'merge'
+}
+item {
+    id: 3
+    name: 'signalAhead'
+}
+item {
+    id: 4
+    name: 'speedLimit25'
+}
+item {
+    id: 5
+    name: 'speedLimit35'
+}
+item {
+    id: 6
+    name: 'stop'
+}
+item {
+    id: 7
+    name: 'yieldAhead'
+}
+item {
+    id: 8
+    name: 'yield'
+}
